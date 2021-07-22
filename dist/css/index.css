@@ -132,7 +132,7 @@ footer {
   text-align: center;
 }
 
-@media (min-width: 816px) {
+@media (min-width: 916px) {
   .container {
     padding: 60px 120px;
     max-width: 1200px;
